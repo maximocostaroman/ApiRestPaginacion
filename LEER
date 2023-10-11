@@ -1,0 +1,1 @@
+Para ejecutar las consultas de POSTMAN primero se debe crear con un POST la entidad LOCALIDAD, luego la entidad AUTOR y por ultimo PERSONA. Luego se pueden hacer las consultas que gusten.
